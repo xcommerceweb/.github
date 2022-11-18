@@ -1,4 +1,4 @@
-![Logo X-Commerce](./xcommerce.png)
+![Logo X-Commerce](https://github.com/xcommerceweb/.github/blob/main/profile/xcommerce.png)
 
 > Muito mais do que uma plataforma de e-commerce
 
